@@ -1,12 +1,12 @@
 # Agencia de vehiculos nuevos y usados
 
-###Descripcion del proyecto:
+### Descripcion del proyecto:
 
 Este es un proyecto destinado a completar el trabajo de final de cursada de la materia Espacio de Articulacion de Proyectos III. 
 Se trata de un programa que permite buscar, agregar, almacenar y eliminar datos de vehículos.
 
 
-###Archivos:
+### Archivos:
 
 **Documentacion de programa.pdf:**
 
